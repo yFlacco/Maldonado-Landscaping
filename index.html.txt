@@ -41,7 +41,7 @@ footer{background:#145c2c;color:white;text-align:center;padding:20px}
 
 <section id="contact">
 <h2>Free Quote</h2>
-<p>Call or Text: (555) 123-4567</p>
+<p>Call or Text: (405) 503-0349</p>
 <button class="btn">Request Quote</button>
 </section>
 
