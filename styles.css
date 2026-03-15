@@ -1,0 +1,24 @@
+body{
+font-family: Arial;
+margin:0;
+}
+
+header{
+background:#1f3d1f;
+color:white;
+padding:15px;
+}
+
+nav a{
+color:white;
+margin-right:20px;
+text-decoration:none;
+}
+
+section{
+padding:40px;
+}
+
+h1,h2{
+color:#2e7d32;
+}
